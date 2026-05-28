@@ -17,8 +17,6 @@ http://183.250.156.180:9999/newlive/live/hls/4/live.m3u8
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV5.png",CCTV-5
 http://183.250.156.180:9999/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV5.png",CCTV-5
-http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV5plus.png",CCTV-5+
 http://183.250.156.180:9999/newlive/live/hls/6/live.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV6.png",CCTV-6
@@ -63,8 +61,6 @@ http://183.250.156.180:9999/newlive/live/hls/16/live.m3u8
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV16.png",CCTV-16
 http://183.250.156.180:9999/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV16.png",CCTV-16
-http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV17.png",CCTV-17
 http://183.250.156.180:9999/newlive/live/hls/18/live.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://gitee.com/w870854/iptvm3u/raw/master/LOGO/CCTV17.png",CCTV-17
